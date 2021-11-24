@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/university/android/_projects/Musicplayer/app/src/main/res/drawable/list_bbg.xml" value="0.11851851851851852" />
+        <entry key="..\:/university/android/_projects/Musicplayer/app/src/main/res/drawable/middle.xml" value="0.1" />
         <entry key="..\:/university/android/_projects/Musicplayer/app/src/main/res/drawable/music.xml" value="0.2526041666666667" />
         <entry key="..\:/university/android/_projects/Musicplayer/app/src/main/res/layout-land/list_items.xml" value="0.176" />
         <entry key="..\:/university/android/_projects/Musicplayer/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/university/android/_projects/Musicplayer/app/src/main/res/layout/activity_player.xml" value="0.2" />
         <entry key="..\:/university/android/_projects/Musicplayer/app/src/main/res/layout/list_items.xml" value="0.176" />
       </map>
     </option>
